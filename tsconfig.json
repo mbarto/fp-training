@@ -1,0 +1,16 @@
+{
+    "include": ["./src/**/*"],
+    "compilerOptions": {
+        "strict": true,
+        "target": "es5",
+        "module": "es6",
+        "moduleResolution": "Node",
+        "jsx": "react",
+        "skipLibCheck": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "esModuleInterop": true,
+        "outDir": "./lib",
+        "rootDir": "./src"
+    }
+}
