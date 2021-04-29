@@ -24,4 +24,3 @@ test("sequence", () => {
         ),
     ).toEqual(O.some("s1true"))
 })
-
